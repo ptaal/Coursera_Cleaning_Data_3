@@ -1,9 +1,10 @@
 ###CodeBook
 ###Main
 To successfully execute the codes from the R script (run_analysis.R), you must download the zip file from the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 **Steps**
-1. setwd(), set up your working directory
-2. download.file(), download the zip file from the above link
+1.	setwd(), set up your working directory
+2. 	download.file(), download the zip file from the above link
 3. unzip(), unzip the dowloaded file
 4. create three variables to store and read each file from text folder using read.table()
 4.1.test_set

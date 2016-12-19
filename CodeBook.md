@@ -28,7 +28,7 @@ To successfully execute the codes from the R script (run_analysis.R), you must d
 
 **Variables:**
 
-*Subjects
-*ActivityLabels
-*timeBodyAccelerationMeanX
-*timeBodyAccelerationMeanY
+*	Subjects
+*	ActivityLabels
+*	timeBodyAccelerationMeanX
+*	timeBodyAccelerationMeanY

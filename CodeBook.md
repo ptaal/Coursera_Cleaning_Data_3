@@ -25,3 +25,10 @@ To successfully execute the codes from the R script (run_analysis.R), you must d
 13. 	use melt() function with ids of Subjects and ActivityLabels
 14. 	use dcast() function to get the mean for Subject and ActivityLabels accordingly
 15. 	use write.table() to extract the new dataset to a new text file tidyData.txt
+
+**Variables:**
+
+*Subjects
+*ActivityLabels
+*timeBodyAccelerationMeanX
+*timeBodyAccelerationMeanY
